@@ -56,7 +56,7 @@ npm start
 
 ---
 
-This `README.md` provides a comprehensive overview of your application, guiding users and contributors effectively.
+This `README.md` provides a comprehensive overview of my application, guiding users and contributors effectively.
 ::contentReference[oaicite:0]{index=0}
  
 
