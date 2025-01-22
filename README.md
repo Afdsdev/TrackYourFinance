@@ -35,3 +35,30 @@ Follow these instructions to set up the project locally.
    ```bash
    git clone https://github.com/yourusername/TrackYourFinance_Application.git
 
+
+   ###Navigate to the project directory:
+
+cd TrackYourFinance_Application
+
+  ###Install dependencies:
+
+npm install
+###Set up environment variables
+PORT=3000
+MONGODB_URI=your_mongodb_connection_string
+SECRET_KEY=your_secret_key
+
+###Start the development server
+npm start
+
+
+
+---
+
+This `README.md` provides a comprehensive overview of your application, guiding users and contributors effectively.
+::contentReference[oaicite:0]{index=0}
+ 
+
+
+
+
