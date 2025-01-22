@@ -36,19 +36,20 @@ Follow these instructions to set up the project locally.
    git clone https://github.com/yourusername/TrackYourFinance_Application.git
 
 
-   ###Navigate to the project directory:
+### Navigate to the project directory:
 
 cd TrackYourFinance_Application
 
-  ###Install dependencies:
+###   Install dependencies:
 
 npm install
-###Set up environment variables
+### Set up environment variables
+
 PORT=3000
 MONGODB_URI=your_mongodb_connection_string
 SECRET_KEY=your_secret_key
 
-###Start the development server
+###   Start the development server
 npm start
 
 
