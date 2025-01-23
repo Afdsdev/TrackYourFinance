@@ -43,11 +43,7 @@ cd TrackYourFinance_Application
 ###   Install dependencies:
 
 npm install
-### Set up environment variables
 
-PORT=3000
-MONGODB_URI=your_mongodb_connection_string
-SECRET_KEY=your_secret_key
 
 ###   Start the development server
 npm start
