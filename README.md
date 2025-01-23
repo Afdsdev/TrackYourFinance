@@ -33,7 +33,7 @@ Follow these instructions to set up the project locally.
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/TrackYourFinance_Application.git
+   git clone https://github.com/yourusername/TrackYourFinance.git
 
 
 ### Navigate to the project directory:
